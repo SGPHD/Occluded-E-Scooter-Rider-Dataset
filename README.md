@@ -5,8 +5,10 @@ E-Scooter Rider Detection and Classification in Dense Urban Environments
 
 Partially Occluded E-Scooter Rider Detection Dataset used in ["E-Scooter Rider Detection and Classification in Dense Urban Environments"](https://arxiv.org/pdf/2205.10184.pdf) Gilroy _et al_ 2022. 
 
-<img title="Dataset_Sample" src="images/Dataset_Sample.png"/> 
 
+<p align="center">
+<img title="Dataset_Sample" src="images/Dataset_Sample.png"/> 
+</p>
 
 This dataset contains 1,130 images including 543 e-scooter rider instances and 587 other vulnerable road user instances, for the characterization of detection and classification model performance for partially occluded e-scooter riders. Vulnerable road user instances are occluded by a diverse mix of objects across a range of occlusion levels from 0 to 99% occluded.
 
