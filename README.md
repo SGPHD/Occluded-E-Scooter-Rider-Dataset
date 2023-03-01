@@ -27,7 +27,7 @@ Images are annotated using the objective occlusion level annotation method descr
 
 ### Please cite the following work
 
-[ArXiv2022](https://arxiv.org/abs/2205.04812)
+[Results in Engineering 2022](https://doi.org/10.1016/j.rineng.2022.100677)
 ```
 @article{gilroy2022scooter,
   title={E-Scooter Rider detection and classification in dense urban environments},
