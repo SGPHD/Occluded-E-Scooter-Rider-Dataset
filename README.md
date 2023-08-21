@@ -51,9 +51,3 @@ Images are annotated using the objective occlusion level annotation method descr
 }
 ```
 
-
-
-
-
-
-google-site-verification: googlea02532766cd6491f.html
