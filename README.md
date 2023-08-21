@@ -24,7 +24,6 @@ Images are annotated using the objective occlusion level annotation method descr
 
 
 
-
 ### Please cite the following work
 
 [Results in Engineering 2022](https://doi.org/10.1016/j.rineng.2022.100677)
@@ -51,3 +50,10 @@ Images are annotated using the objective occlusion level annotation method descr
   year={2021}
 }
 ```
+
+
+
+
+
+
+google-site-verification: googlea02532766cd6491f.html
