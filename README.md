@@ -1,4 +1,4 @@
-# E-Scooter Rider Detection Dataset
+# Partially Occluded E-Scooter Rider Detection Dataset
 E-Scooter Rider Detection and Classification in Dense Urban Environments
 
 
