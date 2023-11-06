@@ -40,6 +40,22 @@ Images are annotated using the objective occlusion level annotation method descr
 ```
 
 
+
+[Pattern Recognition Letters 2022](https://doi.org/10.1016/j.patrec.2022.10.028)
+```
+@article{gilroy2022objective,
+  title={An objective method for pedestrian occlusion level classification},
+  author={Gilroy, Shane and Glavin, Martin and Jones, Edward and Mullins, Darragh},
+  journal={Pattern Recognition Letters},
+  volume={164},
+  pages={96--103},
+  year={2022},
+  publisher={Elsevier}
+}
+```
+
+
+
 [ICCV2021](https://openaccess.thecvf.com/content/ICCV2021W/OVIS/papers/Gilroy_Pedestrian_Occlusion_Level_Classification_Using_Keypoint_Detection_and_2D_Body_ICCVW_2021_paper.pdf)
 ```
 @inproceedings{gilroy2021pedestrian,
